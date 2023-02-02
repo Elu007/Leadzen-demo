@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Elu007/Leadzen-demo/static/css/main.e6c13ad2.css",
+    "main.js": "/Elu007/Leadzen-demo/static/js/main.f29e619b.js",
+    "index.html": "/Elu007/Leadzen-demo/index.html",
+    "main.e6c13ad2.css.map": "/Elu007/Leadzen-demo/static/css/main.e6c13ad2.css.map",
+    "main.f29e619b.js.map": "/Elu007/Leadzen-demo/static/js/main.f29e619b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.f29e619b.js"
+  ]
+}
